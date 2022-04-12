@@ -1,0 +1,184 @@
+{
+  "equity": [
+    {
+      "member": "Hon. Nancy Pelosi",
+      "discloseDate": "09/03/2020",
+      "transDate": "2020-08-07",
+      "tickerSym": "FB",
+      "tickerCo": "Facebook, Inc. - Class A",
+      "transType": "sale_full",
+      "transAmt": "$1,000,001 - $5,000,000",
+      "id": 1
+    },
+    {
+      "member": "Hon. Nancy Pelosi",
+      "discloseDate": "04/09/2021",
+      "transDate": "2021-03-19",
+      "tickerSym": "MSFT",
+      "tickerCo": "Microsoft Corporation - Exercised 150 call options (15K shares) expiring 3/19/2021 @ $130",
+      "transType": "purchase",
+      "transAmt": "$1,000,001 - $5,000,000",
+      "id": 2
+    },
+    {
+      "member": "Hon. Nancy Pelosi",
+      "discloseDate": "04/09/2021",
+      "transDate": "2021-03-19",
+      "tickerSym": "MSFT",
+      "tickerCo": "Microsoft Corporation - Exercised 100 call options (10K shares) expiring 3/19/2021 @ $140",
+      "transType": "purchase",
+      "transAmt": "$1,000,001 - $5,000,000",
+      "id": 3
+    },
+    {
+      "member": "Hon. Nancy Pelosi",
+      "discloseDate": "04/09/2021",
+      "transDate": "2021-03-10",
+      "tickerSym": "RBLX",
+      "tickerCo": "Roblox Corporation - purchase 10K shares",
+      "transType": "purchase",
+      "transAmt": "$500,001 - $1,000,000",
+      "id": 4
+    },
+    {
+      "member": "Hon. Nancy Pelosi",
+      "discloseDate": "03/09/2021",
+      "transDate": "2021-02-18",
+      "tickerSym": "AB",
+      "tickerCo": "AllianceBerstein Holding LP. Purchased 15,000 shares.",
+      "transType": "purchase",
+      "transAmt": "$500,001 - $1,000,000",
+      "id": 5
+    },
+    {
+      "member": "Hon. Nancy Pelosi",
+      "discloseDate": "03/09/2021",
+      "transDate": "2021-02-23",
+      "tickerSym": "AB",
+      "tickerCo": "AllianceBerstein Holding LP. Purchased 25,000 shares.",
+      "transType": "purchase",
+      "transAmt": "$500,001 - $1,000,000",
+      "id": 6
+    },
+    {
+      "member": "Hon. Nancy Pelosi",
+      "discloseDate": "07/20/2020",
+      "transDate": "2020-06-24",
+      "tickerSym": "AXP",
+      "tickerCo": "American Express Company",
+      "transType": "purchase",
+      "transAmt": "$100,001 - $250,000",
+      "id": 7
+    },
+    {
+      "member": "Hon. Nancy Pelosi",
+      "discloseDate": "07/20/2020",
+      "transDate": "2020-06-18",
+      "tickerSym": "AAPL",
+      "tickerCo": "Apple Inc.",
+      "transType": "sale_full",
+      "transAmt": "$1,000,001 - $5,000,000",
+      "id": 8
+    },
+    {
+      "member": "Hon. Nancy Pelosi",
+      "discloseDate": "07/20/2020",
+      "transDate": "2020-06-18",
+      "tickerSym": "NFLX",
+      "tickerCo": "Netflix, Inc.",
+      "transType": "purchase",
+      "transAmt": "$1,000,001 - $5,000,000",
+      "id": 9
+    },
+    {
+      "member": "Hon. Nancy Pelosi",
+      "discloseDate": "07/20/2020",
+      "transDate": "2020-06-12",
+      "tickerSym": "PYPL",
+      "tickerCo": "PayPal Holdings, Inc.",
+      "transType": "purchase",
+      "transAmt": "$500,001 - $1,000,000",
+      "id": 10
+    },
+    {
+      "member": "Hon. Nancy Pelosi",
+      "discloseDate": "07/20/2020",
+      "transDate": "2020-06-12",
+      "tickerSym": "PYPL",
+      "tickerCo": "PayPal Holdings, Inc.",
+      "transType": "purchase",
+      "transAmt": "$500,001 - $1,000,000",
+      "id": 11
+    },
+    {
+      "member": "Hon. Nancy Pelosi",
+      "discloseDate": "07/20/2020",
+      "transDate": "2020-06-18",
+      "tickerSym": "CRM",
+      "tickerCo": "Salesforce.com Inc",
+      "transType": "purchase",
+      "transAmt": "$1,000,001 - $5,000,000",
+      "id": 12
+    },
+    {
+      "member": "Hon. Nancy Pelosi",
+      "discloseDate": "07/20/2020",
+      "transDate": "2020-06-24",
+      "tickerSym": "PYPL",
+      "tickerCo": "PayPal Holdings, Inc.",
+      "transType": "purchase",
+      "transAmt": "$250,001 - $500,000",
+      "id": 13
+    },
+    {
+      "member": "Hon. Nancy Pelosi",
+      "discloseDate": "01/21/2021",
+      "transDate": "2020-12-22",
+      "tickerSym": "AB",
+      "tickerCo": "AllianceBernstein Holding plc Purchsed 20,000 shares",
+      "transType": "purchase",
+      "transAmt": "$500,001 - $1,000,000",
+      "id": 14
+    },
+    {
+      "member": "Hon. Nancy Pelosi",
+      "discloseDate": "01/21/2021",
+      "transDate": "2020-12-22",
+      "tickerSym": "AAPL",
+      "tickerCo": "Apple Inc. Purchased 100 call options with a strike price of $100 and an expiration date of 1/21/22.",
+      "transType": "purchase",
+      "transAmt": "$250,001 - $500,000",
+      "id": 15
+    },
+    {
+      "member": "Hon. Nancy Pelosi",
+      "discloseDate": "10/04/2020",
+      "transDate": "2020-09-03",
+      "tickerSym": "CRWD",
+      "tickerCo": "CrowdStrike Holdings, Inc. - Class A",
+      "transType": "purchase",
+      "transAmt": "$500,001 - $1,000,000",
+      "id": 16
+    },
+    {
+      "member": "Hon. Nancy Pelosi",
+      "discloseDate": "01/21/2021",
+      "transDate": "2020-12-22",
+      "tickerSym": "TSLA",
+      "tickerCo": "Tesla Inc. Purchased 25 call options with a strike price of $500 and an expiration date of 3/18/22.",
+      "transType": "purchase",
+      "transAmt": "$500,001 - $1,000,000",
+      "id": 17
+    },
+    {
+      "member": "Hon. Nancy Pelosi",
+      "discloseDate": "01/21/2021",
+      "transDate": "2020-12-22",
+      "tickerSym": "DIS",
+      "tickerCo": "The Walt Disney Company. Purchased 100 call options with a strike price of $100 and an expiration date of 1/21/22.",
+      "transType": "purchase",
+      "transAmt": "$500,001 - $1,000,000",
+      "id": 18
+    }
+  ]
+}
